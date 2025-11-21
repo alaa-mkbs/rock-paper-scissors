@@ -23,13 +23,6 @@ The goal was to build an interactive game where:
 
 ---
 
-### 🔗 Links
-
-* 📂 [Solution](https://www.frontendmentor.io/solutions/rock-paper-scissors-solution-using-js-oop-IgHTwXdbhx)
-* 🚀 [Live Demo](https://rpsgame-neon.vercel.app)
-
----
-
 ## 🛠️ What I Used
 
 * Semantic **HTML5**
